@@ -1,2 +1,2 @@
-# Scientificcomputing-group-tasks
+# Scientific Computing-group-tasks
 Scientific computing tasks 8 and 9
